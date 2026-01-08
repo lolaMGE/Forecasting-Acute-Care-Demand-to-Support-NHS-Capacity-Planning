@@ -1,4 +1,4 @@
-# Forecasting-Acute-Care-Demand-to-Support-NHS-Capacity-Planning
+# Forecasting Emergency Admissions to Support Winter Staffing Decisions in an NHS Trust
 This project is designed to forecast the healthcare demand of citizens to support operational planning and decision-making
 ### Project Overview
 
